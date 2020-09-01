@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyMapAlarmActivity</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="ok">Text to Set</string>
+</resources>
